@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.merofoundry/merofoundry",
+  "name": "com.merofoundry/merofoundry",
   "title": "MeroFoundry",
   "description": "Build and publish full-stack apps from your coding agent: models, rules, pages, auth, per-app MCP.",
   "version": "1.0.0",
