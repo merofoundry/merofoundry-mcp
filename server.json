@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.merofoundry/merofoundry",
+  "title": "MeroFoundry",
+  "description": "Build and publish full-stack applications from your coding agent: data models, records, rules, pages, auth, and a per-app MCP server, on a hosted platform.",
+  "version": "1.0.0",
+  "websiteUrl": "https://merofoundry.com",
+  "repository": {
+    "url": "https://github.com/merofoundry/merofoundry-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://platform.merofoundry.com/mcp"
+    }
+  ]
+}
