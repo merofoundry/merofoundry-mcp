@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "merofoundry": {
+      "type": "http",
+      "url": "https://platform.merofoundry.com/mcp?client=claude-code-plugin"
+    }
+  }
+}
