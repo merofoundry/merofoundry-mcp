@@ -1,0 +1,8 @@
+{
+  "name": "merofoundry",
+  "version": "1.0.0",
+  "description": "Build and publish full-stack applications from Claude Code. Connects to the hosted MeroFoundry MCP server (https://platform.merofoundry.com/mcp) over OAuth, then gives Claude a skill for building well on the platform: data models and schema publishing, pages from the block catalog, model-bound forms, consumer authentication and per-record access, and browser verification of the published result.",
+  "author": {
+    "name": "MERO Consulting"
+  }
+}
